@@ -1,2 +1,2 @@
-# World-Ecosystems-
-Incentive based blockchain solutions for real world industries
+# Truluke-
+Solutions for real world industries
